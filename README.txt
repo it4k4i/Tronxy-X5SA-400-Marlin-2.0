@@ -6,6 +6,8 @@ Stepper Driver: TMC2208 UART
 Dual Z Stepper Driver: 2x TMC2208 (At Z Slot and E1 Slot)
 One Z Stepper Driver: 1x TMC2208 with a Splitter
 
+Autolevel: BILINEAR
+
 You at your own Risk!
 Absolutely testing:
 - Endstop
