@@ -19,7 +19,7 @@ One Z Stepper Driver: 1x TMC2208 with a Splitter
 Autolevel: BILINEAR
 
 
-You at your own Risk!
+Use at your own Risk!
 
 Absolutely testing:
 
