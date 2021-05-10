@@ -7,9 +7,6 @@ Board: SKR 1.3
 Stepper Driver: TMC2208 UART
 
 
-One Z Stepper Driver Config already inside Marlin -> Marlin
-
-
 
 Dual Z Stepper Driver: 2x TMC2208 (At Z Slot and E1 Slot)
 
