@@ -1,3 +1,6 @@
+You could try https://github.com/it4k4i/Tronxy-X5S-X5SA-SKR-Marlin-2.0 (Not Tested, kompiled, build)
+Or use this (old) Marlin Version:
+
 Marlin 2.0 Config File
 
 Tronxy X5SA 400 Version
